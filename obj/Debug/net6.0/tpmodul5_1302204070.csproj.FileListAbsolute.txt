@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\bin\Debug\net6.0\tpmodul5_1302204070.exe
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\bin\Debug\net6.0\tpmodul5_1302204070.deps.json
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\bin\Debug\net6.0\tpmodul5_1302204070.runtimeconfig.json
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\bin\Debug\net6.0\tpmodul5_1302204070.dll
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\bin\Debug\net6.0\tpmodul5_1302204070.pdb
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\tpmodul5_1302204070.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\tpmodul5_1302204070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\tpmodul5_1302204070.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\tpmodul5_1302204070.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\tpmodul5_1302204070.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\tpmodul5_1302204070.dll
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\refint\tpmodul5_1302204070.dll
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\tpmodul5_1302204070.pdb
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\tpmodul5_1302204070.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\daws\tpmodul5_1302204070\tpmodul5_1302204070\obj\Debug\net6.0\ref\tpmodul5_1302204070.dll
